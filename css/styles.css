@@ -1,4 +1,51 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+}
+/* HEADER */
+/* HEADER */
+header {
+   border-bottom: 1px solid var(--cornflower, #E7E9FC);
+}
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: #2E2F42;
+    text-decoration: none;
+}
+.logo-part {
+    color:#4D5AE5;
+}
+.nav-list-link {
+    color: #2E2F42;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    text-decoration: none;
+}
+.nav-list-item {
+    list-style-type: none;
+}
+.contacts-list-link {
+    color: #434455;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    text-decoration: none; 
+}
+.contacts-list-item {
+    list-style-type: none;
+}
+/* ORDER */
+/* ORDER */
+.order {
+    background-color: #2E2F42;
 }
