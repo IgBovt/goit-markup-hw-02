@@ -78,13 +78,13 @@ p {
 .order {
     background-color: #2E2F42;
 }
-h1 {
+.main-title {
     color:#FFF;
     text-align: center;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
 }
 .order-button {
@@ -94,6 +94,13 @@ h1 {
     line-height: 24px;
     letter-spacing: 0.64px;
     background-color: #4D5AE5;
+    cursor: pointer
+}
+.order-button:hover {
+    background-color: #404BBF;
+}
+.order-button:focus {
+    background-color: #404BBF;
 }
 /* ABOUT US */
 /* ABOUT US */
