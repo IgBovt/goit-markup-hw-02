@@ -4,21 +4,6 @@ body {
     background-color: #fff;
     color: #434455; 
 }
-h3 {
-    color: #2E2F42;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
-}
-p {
-    color: #434455;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-}
 /* HEADER */
 /* HEADER */
 .logo {
@@ -107,6 +92,22 @@ p {
 .about-list {
     list-style-type: none;
 }
+.about-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+.about-text {
+    color: #434455;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
 /* OUR TEAM */
 /* OUR TEAM */
 .team {
