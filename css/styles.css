@@ -155,6 +155,17 @@ body {
 }
 /* OUR PORTFOLIO */
 /* OUR PORTFOLIO */
+.portfolio-title {
+    color:  #2E2F42;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
 .portfolio-list {
     list-style-type: none;
 }
